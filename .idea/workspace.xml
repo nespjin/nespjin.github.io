@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66350f2c-af64-404c-a980-ab8eaec1c6f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YWDk19Qm2UYjpj0vDJi6MqUbyW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66350f2c-af64-404c-a980-ab8eaec1c6f8" name="Default Changelist" comment="" />
+      <created>1556945048297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556945048297</updated>
+      <workItem from="1556945051312" duration="7277000" />
+      <workItem from="1556954070368" duration="666000" />
+      <workItem from="1556955507377" duration="27000" />
+      <workItem from="1563092800452" duration="3536000" />
+      <workItem from="1563121225739" duration="3235000" />
+      <workItem from="1583049615049" duration="2803000" />
+      <workItem from="1583053687104" duration="43000" />
+      <workItem from="1585978501495" duration="904000" />
+      <workItem from="1586016163140" duration="7000" />
+      <workItem from="1586016192351" duration="611000" />
+      <workItem from="1586563977975" duration="444000" />
+      <workItem from="1586669346654" duration="2000" />
+      <workItem from="1586669388024" duration="27000" />
+      <workItem from="1586671175949" duration="62000" />
+      <workItem from="1586671632290" duration="165000" />
+      <workItem from="1586672083003" duration="1871000" />
+      <workItem from="1586674865002" duration="56000" />
+      <workItem from="1586675028367" duration="27000" />
+      <workItem from="1586675801360" duration="1000" />
+      <workItem from="1587280672409" duration="13000" />
+      <workItem from="1587281074322" duration="22000" />
+      <workItem from="1587281396799" duration="39000" />
+      <workItem from="1587283441115" duration="203000" />
+      <workItem from="1587425837741" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="127" key="SettingsEditor" timestamp="1587281437395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="400" y="127" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587281437395" />
+  </component>
+</project>
